@@ -1,4 +1,4 @@
-### Eai! Eu sou Arthur Benardes, um lifelong learner amante de tecnologias disruptivas!
+### Eai! Sou Arthur Benardes, um lifelong learner amante de tecnologias disruptivas!
 
 - 🔭 Front-end Dev
 - 🌱 Estudando JavaScript
