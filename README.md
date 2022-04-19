@@ -24,7 +24,7 @@
   <img align="center" alt="thu-Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="thu-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="thu-JQuery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img align="right" alt="thu-pic" height="150" style="border-radius:150px;" src="https://i.picasion.com/pic92/69a272ba2e85f49288fd69fdd3f7df0f.gif" width="150" height="155" border="0" alt="https://picasion.com/" /></a><br />
+  <img align="right" alt="thu-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/69a272ba2e85f49288fd69fdd3f7df0f.gif" width="150" height="155" border="0" alt="https://picasion.com/" /></a><br />
  </div>
   
   ##
