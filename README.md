@@ -25,6 +25,7 @@
   <img align="center" alt="thu-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="thu-JQuery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="right" alt="thu-pic" height="150" style="border-radius:150px;" src="https://i.picasion.com/pic92/69a272ba2e85f49288fd69fdd3f7df0f.gif" width="150" height="155" border="0" alt="https://picasion.com/" /></a><br />
+  </div>
   
   ##
   
@@ -33,4 +34,6 @@
   <a href = "mailto:arthurqzs.ag@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-bernardes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
     
+</div>
