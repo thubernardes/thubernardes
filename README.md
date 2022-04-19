@@ -1,7 +1,7 @@
 ### Eai! Sou Arthur Bernardes, um lifelong learner amante de tecnologias disruptivas!
 
 - 🔭 Front-end Dev
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript com ReactJS
 - 🤔 Buscando sempre aprender e ensinar pessoas através da tecnologia
 - 😄 Pronouns: Ele/Dele (He/Him)
 
