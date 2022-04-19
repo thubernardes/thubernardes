@@ -2,7 +2,6 @@
 
 - 🔭 Front-end Dev
 - 🌱 Estudando JavaScript com ReactJS
-- 🤔 Buscando sempre aprender e ensinar pessoas através da tecnologia
 - 😄 Pronouns: Ele/Dele (He/Him)
 
 <div align="center">
